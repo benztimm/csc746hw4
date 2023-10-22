@@ -1,0 +1,6 @@
+# author: E. Wes Bethel, Oct 2022,,,
+# sample data for use with the plot_3vars.py file,,,,
+Problem Size,p=1,p=4,p=16,p=64
+128,1,3.666666667,11,16.5
+512,1,3.189240506,8.049520767,24.34299517
+2048,1,3.6824565,9.359407727,33.44528625
